@@ -1,5 +1,5 @@
 {
-  "name": "com.thaiht.changepivotobject2d",
+  "name": "com.thaiht.feature.changepivotobject2d",
   "version": "1.0.0",
   "description": "Easy way to change the pivot of 2D object, applied well to the object with the SpriteRenderer component object. Made by hathanhthai18@gmai.com",
   "repository": {
