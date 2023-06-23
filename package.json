@@ -1,11 +1,19 @@
 {
-  "name": "ChangePivotObject2D",
+  "name": "com.thaiht.changepivotobject2d",
   "version": "1.0.0",
-  "unity": "2021.3",
   "description": "Easy way to change the pivot of 2D object, applied well to the object with the SpriteRenderer component object. Made by hathanhthai18@gmai.com",
-  "author": "thanhthai18 <hathanhthai18@gmail.com>",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/thanhthai18/ChangePivotObject2D.git"
   },
+  "author": "thanhthai18 <hathanhthai18@gmail.com> (https://github.com/thanhthai18)",
+  "keywords": [
+    "upm",
+    "git",
+    "editor"
+  ],
+  "displayName": "ChangePivotObject2D",
+  "unity": "2021.3",
+  "type": "tool"
 }
